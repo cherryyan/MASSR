@@ -1,0 +1,12 @@
+Package: MASSR
+Type: Package
+Title: Sample Size Re-Estimation for Two-Stage Flexible Multi-Arm Trials with Treatment Selection
+Version: 0.1.0
+Author: Yan Li
+Maintainer: Yan Li <yanallicia23@gmail.com>
+Import: MAMS
+Description: This package performs sample size re-estimation (SSR) based on the conditional power approach for two-stage flexible multi-arm trial designs with normal and binary outcomes.Three flexible multi-arm designs are included in this package: flexible group sequential design (FGS), adaptive design based on inverse normal combination function (INC) and Fisher's combination function (FiC).
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
